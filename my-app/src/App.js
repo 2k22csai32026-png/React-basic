@@ -1,9 +1,13 @@
-
+import Ex from "./ex";
 
 
 function App() {
   return (
-    <h1>Hello world</h1>
+    <>
+    <Ex/>
+    
+    {/* <h1>Hello world</h1> */}
+    </>
   );
 }
 
